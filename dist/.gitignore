@@ -1,0 +1,18 @@
+# PyInstaller klasörleri
+/build/
+/dist/
+*.spec
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+venv/
+env/
+
+# Ayar ve Log dosyaları
+*.log
+settings.json
+checkpoint.json
